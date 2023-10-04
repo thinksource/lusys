@@ -1,0 +1,22 @@
+Dear Infoscion
+
+We are pleased to inform you that your Payslip for August 2023 is now available under CAG category in eDocket.
+E-docket Navigation: You can also navigate by following this path: Sparsh-> Harmony -> E-Docket -> View Employee Docket -> Select under Documents of Employee -> Category - CAG Documents -> Status -> All -> Click Go
+You can also download the document from InfyMe mobile application by following the path. My Profile -> Official -> eDocket -> CAG or My Profile -> Financial -> PaySlips.
+
+Please note that documents are password protected and you are required to enter your date of birth in DD-Mmm-YYYY format to view the contents of the document.
+(For example, If your date of birth is 1st October 1981, enter password as 01-Oct-1981).
+
+If you are outside Infosys network, kindly login through iConnect.
+
+Please contact the below teams for the following type of clarifications.
+•	For any CAG documents related queries, please raise an AHD request under CAG -> ROW Payroll.
+•	HRD (Compensation & Benefit): Raise AHD request under HR, for Salary changes, Computation of Performance bonus, Compensation review and Salary revision.
+•	Infosys Welfare Trust (IWT): Please raise a request under AHD -> CAG -> IL. Welfare Trust for clarifications.
+•	Overseas Pay kit: Please refer the respective country pay kit for general queries.
+
+Best Regards
+Corporate Accounting Group
+
+Note:Please raise AHD under IS for any technical issues related to eDocket application.
+Scan the QR code to download the InfyMe app:
